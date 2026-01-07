@@ -1,4 +1,4 @@
-import{h as s,j as e,a1 as t,k as a}from"./index-Qp3oFRE6.js";const n=s.div`
+import{h as s,j as e,a1 as t,k as a}from"./index-Cw7gRJ0b.js";const n=s.div`
   min-height: 100vh;
 
   .page-not-found-img {
